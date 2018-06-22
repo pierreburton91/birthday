@@ -49,7 +49,7 @@ $(document).ready(function() {
                 $('.gift').fadeIn(function() {
                     setTimeout(function() {
                         $('#amount-number').animateNumber({
-                            number : 465,
+                            number : 605,
                             easing: 'swing'
                         }, 
                         5000);
