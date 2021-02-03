@@ -29,7 +29,7 @@ function hideSpinner() {
 }
 
 $(document).ready(function() {
-    var texts = ['Hey Clarice !', 'I heard it\'s your birthday so...', 'Happy birthday ! 🎂', 'Your family and friends gathered around you today to offer you a super gift !', 'We\'re sorry for the waiting though, but it\'s totally worth it !', 'So...', 'Are you ready ? 👀'],
+    var texts = ['Hey !', 'I heard it\'s your birthday so...', 'Happy birthday ! 🎂', 'Your family and friends gathered around you today to offer you a super gift !', 'We\'re sorry for the waiting though, but it\'s totally worth it !', 'So...', 'Are you ready ? 👀'],
         i = 0;
 
     setTimeout(function() {
