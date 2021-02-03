@@ -1,3 +1,3 @@
-# clarice-birthday
+# birthday
 
-### Happy Birthday sweetie !
+### Happy Birthday !
